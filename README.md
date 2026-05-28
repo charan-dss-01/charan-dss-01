@@ -138,14 +138,16 @@ https://eventease07.netlify.app/
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-dss-01&show_icons=true&theme=radical" height="180em"/>
+# 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dss-01&layout=compact&theme=radical" height="180em"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-dss-01&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dss-01&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-dss-01&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-dss-01&theme=tokyo-night"/>
 </p>
 
 ---
