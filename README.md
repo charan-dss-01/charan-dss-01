@@ -138,8 +138,6 @@ https://eventease07.netlify.app/
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charan-dss-01&show_icons=true&theme=tokyonight" height="180em"/>
 
