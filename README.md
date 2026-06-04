@@ -16,7 +16,7 @@
 * 💻 Passionate about building **scalable full-stack applications**
 * 🤖 Exploring **AI-powered web applications**
 * ☁️ Learning and working with **Cloud & Open Source Technologies**
-* 🏆 **5× Hackathon Winner**
+* 🏆 **6× Hackathon Winner**
 * 🌱 Currently improving skills in **Next.js, TypeScript, AI Integration & Cloud**
 
 ---
