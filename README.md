@@ -139,11 +139,6 @@ https://eventease07.netlify.app/
 # 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-dss-01&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-dss-01&theme=tokyo-night"/>
 </p>
 
