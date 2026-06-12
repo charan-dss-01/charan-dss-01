@@ -121,7 +121,7 @@ https://eventease07.netlify.app/
 
 # 🏆 Achievements
 
-* 🥇 5× Hackathon Winner
+* 🥇 6× Hackathon Winner
 * 🥇 Winner — Project Expo 2026
 * 🥇 Winner — HackForge 2.0 Hackathon
 * 🥈 2nd Prize — Webathon, TECHSPARKS NOVA 2026
