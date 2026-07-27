@@ -16,7 +16,7 @@
 * 💻 Passionate about building **scalable full-stack applications**
 * 🤖 Exploring **AI-powered web applications**
 * ☁️ Learning and working with **Cloud & Open Source Technologies**
-* 🏆 **7× Hackathon Winner**
+* 🏆 **8× Hackathon Winner**
 * 🌱 Currently improving skills in **Next.js, TypeScript, AI Integration & Cloud**
 
 ---
@@ -121,10 +121,10 @@ https://eventease07.netlify.app/
 
 # 🏆 Achievements
 
-* 🥇 7× Hackathon Winner
+* 🥇 8× Hackathon Winner
 * 🥇 Winner — Project Expo 2026
 * 🥇 Winner — HackForge 2.0 Hackathon
-* 🥈 2nd Prize — Webathon, TECHSPARKS NOVA 2026
+
 
 ---
 
