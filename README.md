@@ -111,7 +111,7 @@ https://agriconnect07.netlify.app/
 * Authentication System
 * QR Ticket Generation
 * PDF Ticket Download
-* Responsive UI
+* Responsive ui
 * Modern Animations
 
 🔗 Live Demo:
