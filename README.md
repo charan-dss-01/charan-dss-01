@@ -91,7 +91,7 @@ https://github.com/charan-dss-01
 * Product Management
 * Farmer Dashboard
 * Direct Consumer Purchasing
-* Responsive UI
+* Responsive ui
 * Authentication System
 
 🔗 Live Demo:
