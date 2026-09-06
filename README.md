@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
